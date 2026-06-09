@@ -212,8 +212,8 @@ Platform barcha cihozlarda ishlaydi:
 ## 📞 Muallif Ma'lumotlari
 
 **Yaratuvchi**: Nosirov Alibek  
-**Davraga**: 2025  
-**Maqsadi**: Bitirish Malakaviy Ishi - Interaktiv Platform  
+**Davraga**: 2026  
+**Maqsadi**: Diplom loyiha - KORXONADA AXBOROT TEXNOLOGIYALARINI JORIY ETISH BO‘YICHA INNOVATSION LOYIHALARNI BOSHQARISH  
 **Universitet**: Toshkent Davlat Iqtisodiyot Universiteti
 
 ---
