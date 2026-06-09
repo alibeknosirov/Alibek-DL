@@ -230,5 +230,5 @@ ProJect-IT platformasidan foydalanganiniz uchun rahmat!
 Agar savollaringiz yoki takliflariingiz bo'lsa, muallif bilan bog'laning.
 
 **Happy Project Management! 🚀**
-# Alibek-BMI
-# Alibek-BMI
+# Alibek-DL
+# Alibek-DL
